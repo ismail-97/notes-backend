@@ -1,0 +1,10 @@
+
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvb3QiLCJpZCI6IjY0MTY3NzBlYjZkZjBhYzFiZDBjNmUwOCIsImlhdCI6MTY3OTI2ODQwMX0.MSudX8raqQOaA8LnITpLVN2zwWJ9XerNzslw6_4skBA
+
+{
+    "content": "2 after seperate authentication into its own module 2",
+    "important": true
+}
+
